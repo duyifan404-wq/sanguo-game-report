@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="AI游戏买量素材与红果漫剧TOP10阅片分析报告" />
+    <title>AI素材 & 漫剧阅片分析</title>
+    <link rel="stylesheet" href="./style-0.css" />
+    <link rel="stylesheet" href="./style-1.css" />
+    <link rel="stylesheet" href="./style-2.css" />
+  </head>
+  <body>
+    <header class="site-header" aria-label="报告导航">
+      <a class="brand" href="#top" aria-label="返回报告首页">
+        <span class="brand-mark">阅片研究</span>
+        <span class="brand-sub">CREATIVE FIELD NOTES</span>
+      </a>
+      <nav class="main-nav" aria-label="章节导航">
+        <a href="#overview" data-nav>概览</a>
+        <a href="#ai-material" data-nav>AI素材</a>
+        <a href="#drama" data-nav>漫剧阅片</a>
+        <a href="#strategy" data-nav>创意策略</a>
+        <a href="#conclusion" data-nav>总结</a>
+      </nav>
+      <span class="header-note">INTERNAL · 2026</span>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">GAME PUBLISHING / CREATIVE RESEARCH</p>
+          <h1 id="hero-title">AI素材 <span>&</span><br />漫剧阅片分析</h1>
+          <p class="hero-subtitle">疯狂水世界 × 超能下蛋鸭 × 灵画师<br />红果漫剧推荐榜 TOP10</p>
+          <p class="hero-intro">从素材表现、内容结构、用户钩子与玩法承接出发，<br />拆解当前AI买量素材与漫剧内容中的可复用创意方法。</p>
+          <div class="hero-metrics" aria-label="报告指标">
+            <div><strong>03</strong><span>游戏AI素材扫盲</span></div>
+            <div><strong>10</strong><span>红果漫剧阅片</span></div>
+            <div><strong>05</strong><span>核心创意模型</span></div>
+          </div>
+        </div>
+
+        <div class="hero-collage" aria-label="本次阅片视觉证据预览">
+          <img class="collage-main" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="waterworld-poster.webp" alt="疯狂水世界海报局部" />
+          <img class="collage-top" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-06.png" alt="末日小餐馆漫剧图片局部" />
+          <img class="collage-right" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-07.png" alt="全班修仙归来漫剧图片局部" />
+          <img class="collage-left" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="duck-ad.png" alt="超能下蛋鸭买量素材局部" />
+          <img class="collage-bottom" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="waterworld-ad.png" alt="疯狂水世界买量素材局部" />
+        </div>
+      </section>
+
+      <section class="overview section-pad" id="overview">
+        <div class="section-kicker"><span>00</span> 本次阅片概览</div>
+        <div class="overview-grid">
+          <div class="scope-strip" aria-label="本次阅片分析范围">
+            <article><span class="scope-index">01</span><p><small>观察对象</small><strong>3款游戏AI素材</strong><em>10部红果漫剧 · 短内容结构</em></p></article>
+            <article><span class="scope-index">02</span><p><small>核心问题</small><strong>为什么停留 · 爽点如何出现</strong><em>如何承接产品</em></p></article>
+            <article><span class="scope-index">03</span><p><small>输出方向</small><strong>可复用钩子 · 内容公式</strong><em>玩法外壳</em></p></article>
+          </div>
+          <div class="overview-copy">
+            <p class="overview-label">CORE SUMMARY / 核心摘要</p>
+            <h2>三种素材入口，一组短内容结构样本</h2>
+            <p class="overview-summary">三款游戏分别代表<strong>情绪与剧情</strong>、<strong>角色与趣味</strong>、<strong>视觉与奇观</strong>三种高频素材入口；十部漫剧提供了<strong>目标建立</strong>、<strong>爽点制造</strong>和延迟答案的结构样本。</p>
+            <p class="overview-result">本报告将“看过什么”转化为“为什么有效、如何迁移”，最终沉淀为游戏UE、AI素材与试玩创意<strong>可直接复用</strong>的方法。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="case-section section-pad" id="ai-material">
+        <div class="chapter-head">
+          <span class="chapter-num">01</span>
+          <div>
+            <p class="eyebrow">AI GAME CREATIVE</p>
+            <h2>AI游戏素材扫盲</h2>
+            <p>通过对AI游戏素材的拆解，分析其在用户钩子、剧情包装与玩法表达上的内容结构。</p>
+          </div>
+        </div>
+
+        <article class="game-case waterworld">
+          <header class="case-title-row">
+            <span class="case-index">CASE 01</span>
+            <h3>疯狂水世界</h3>
+            <div class="tags" aria-label="疯狂水世界标签">
+              <span>末日生存</span><span>AI漫剧</span><span>经营成长</span><span>剧情前贴</span><span>玩法承接</span>
+            </div>
+          </header>
+          <div class="case-body">
+            <div class="evidence-board" aria-label="疯狂水世界素材证据">
+              <span class="evidence-kicker">素材证据</span>
+              <figure class="evidence evidence-main">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="waterworld-ad.png" alt="疯狂水世界AI买量素材案例" data-lightbox tabindex="0" />
+                <figcaption>AI买量素材</figcaption>
+              </figure>
+              <figure class="evidence evidence-support">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="waterworld-poster.webp" alt="疯狂水世界产品海报" data-lightbox tabindex="0" />
+                <figcaption>产品包装</figcaption>
+              </figure>
+              <figure class="evidence evidence-support">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="waterworld-gameplay.png" alt="疯狂水世界实际玩法截图" data-lightbox tabindex="0" />
+                <figcaption>实际玩法</figcaption>
+              </figure>
+            </div>
+            <div class="analysis-board">
+              <section class="case-verdict">
+                <p class="analysis-label">核心判断</p>
+                <h4>剧情负责获客，<br />生存危机推动行为，经营成长承接玩法。</h4>
+              </section>
+              <section class="core-observation">
+                <h5>01 · 核心观察</h5>
+                <p>从家庭矛盾、生存困难等现实问题切入，逐步承接资源收集、基地建设与势力成长。</p>
+              </section>
+              <section class="effect-analysis">
+                <h5>02 · 为什么有效</h5>
+                <div class="reason-list">
+                  <div><b>01</b><strong>低理解成本</strong><p>生存问题比复杂SLG系统更容易瞬间理解。</p></div>
+                  <div><b>02</b><strong>行为有动机</strong><p>生存压力让资源收集与基地建设具备明确动机。</p></div>
+                  <div><b>03</b><strong>成长可视化</strong><p>小据点 → 基地 → 势力，与SLG成长路径一致。</p></div>
+                </div>
+              </section>
+              <div class="learning-row">
+                <section class="learning-strategy">
+                  <h5>03 · 创意策略</h5>
+                  <strong>先卖处境，再卖玩法</strong>
+                  <p>先给一个必须解决的问题，再让游戏玩法成为解决问题的方法。</p>
+                </section>
+                <section class="transfer-directions">
+                  <h5>05 · 可迁移方向</h5>
+                  <ul><li><b>SLG</b> 荒地 → 城池</li><li><b>经营</b> 破店 → 商业帝国</li><li><b>生存</b> 避难所 → 生存基地</li></ul>
+                </section>
+              </div>
+            </div>
+          </div>
+          <div class="formula" aria-label="疯狂水世界素材结构">
+            <span class="formula-label">04 · 素材结构</span><b>现实冲突</b><i>→</i><b>生存危机</b><i>→</i><b>收集资源</b><i>→</i><b>建立基地</b><i>→</i><b>势力成长</b><i>→</i><b>玩法承接</b>
+          </div>
+        </article>
+
+        <article class="game-case duck">
+          <header class="case-title-row">
+            <span class="case-index">CASE 02</span>
+            <h3>超能下蛋鸭</h3>
+            <div class="tags" aria-label="超能下蛋鸭标签">
+              <span>Q萌角色</span><span>角色梗</span><span>强反差</span><span>割草反馈</span><span>轻量玩法</span>
+            </div>
+          </header>
+          <div class="case-body">
+            <div class="evidence-board" aria-label="超能下蛋鸭素材证据">
+              <span class="evidence-kicker">素材证据</span>
+              <figure class="evidence evidence-main">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="duck-ad.png" alt="超能下蛋鸭AI买量素材案例" data-lightbox tabindex="0" />
+                <figcaption>AI买量素材</figcaption>
+              </figure>
+              <figure class="evidence evidence-support">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="duck-poster.jpg" alt="超能下蛋鸭产品海报" data-lightbox tabindex="0" />
+                <figcaption>产品包装</figcaption>
+              </figure>
+              <figure class="evidence evidence-support">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="duck-gameplay.png" alt="超能下蛋鸭实际玩法截图" data-lightbox tabindex="0" />
+                <figcaption>实际玩法</figcaption>
+              </figure>
+            </div>
+            <div class="analysis-board">
+              <section class="case-verdict">
+                <p class="analysis-label">核心判断</p>
+                <h4>角色负责吸睛，反差负责记忆，<br />玩法负责兑现爽感。</h4>
+              </section>
+              <section class="core-observation">
+                <h5>01 · 核心观察</h5>
+                <p>围绕“鸭子”持续制造不同造型、身份和无厘头行为，玩法只集中展示技能爆发、秒怪和清屏等即时反馈。</p>
+              </section>
+              <section class="effect-analysis">
+                <h5>02 · 为什么有效</h5>
+                <div class="reason-list">
+                  <div><b>01</b><strong>强角色识别</strong><p>鸭子本身就是稳定的素材记忆点。</p></div>
+                  <div><b>02</b><strong>素材可持续变体</strong><p>同一个角色可以不断更换身份、场景和剧情。</p></div>
+                  <div><b>03</b><strong>爽点反馈快</strong><p>敌人很多 → 技能释放 → 一次清屏。</p></div>
+                </div>
+              </section>
+              <div class="learning-row">
+                <section class="learning-strategy">
+                  <h5>03 · 创意策略</h5>
+                  <strong>把角色做成长期素材资产</strong>
+                  <p>不重复创造世界观，持续测试新身份、新动作、新场景和新反差。</p>
+                </section>
+                <section class="transfer-directions">
+                  <h5>05 · 可迁移方向</h5>
+                  <ul><li><b>休闲</b> 萌宠角色</li><li><b>割草</b> 弱角色 → 强技能</li><li><b>合成</b> 角色持续进化</li></ul>
+                </section>
+              </div>
+            </div>
+          </div>
+          <div class="formula formula-dark" aria-label="超能下蛋鸭策略公式">
+            <span class="formula-label">04 · 素材结构</span><b>角色出现</b><i>→</i><b>反常行为</b><i>→</i><b>趣味冲突</b><i>→</i><b>技能爆发</b><i>→</i><b>清屏</b><i>→</i><b>CTA</b>
+          </div>
+        </article>
+
+        <article class="game-case painter">
+          <header class="case-title-row">
+            <span class="case-index">CASE 03</span>
+            <h3>灵画师</h3>
+            <div class="tags" aria-label="灵画师标签">
+              <span>国风修仙</span><span>视觉奇观</span><span>AI特效</span><span>法器技能</span><span>割草</span>
+            </div>
+          </header>
+          <div class="case-body">
+            <div class="evidence-board" aria-label="灵画师素材证据">
+              <span class="evidence-kicker">素材证据</span>
+              <figure class="evidence evidence-main">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="painter-ad.png" alt="灵画师AI买量素材案例" data-lightbox tabindex="0" />
+                <figcaption>AI买量素材</figcaption>
+              </figure>
+              <figure class="evidence evidence-support">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="painter-poster.jpg" alt="灵画师产品海报" data-lightbox tabindex="0" />
+                <figcaption>产品包装</figcaption>
+              </figure>
+              <figure class="evidence evidence-support">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="painter-gameplay.webp" alt="灵画师实际玩法截图" data-lightbox tabindex="0" />
+                <figcaption>实际玩法</figcaption>
+              </figure>
+            </div>
+            <div class="analysis-board">
+              <section class="case-verdict">
+                <p class="analysis-label">核心判断</p>
+                <h4>玩法内核稳定，<br />视觉入口持续变化。</h4>
+              </section>
+              <section class="core-observation">
+                <h5>01 · 核心观察</h5>
+                <p>围绕修仙、法器、刷怪、割草等固定爽点，持续更换真人前贴、AI人物、妖兽、万剑、法器和异世界视觉。</p>
+              </section>
+              <section class="effect-analysis">
+                <h5>02 · 为什么有效</h5>
+                <div class="reason-list">
+                  <div><b>01</b><strong>AI适配度高</strong><p>妖兽、万剑、仙术等高成本视觉可快速生产。</p></div>
+                  <div><b>02</b><strong>前3秒变量丰富</strong><p>人物、环境、技能、奇观都可以独立测试。</p></div>
+                  <div><b>03</b><strong>强弱变化明显</strong><p>普通攻击 → 法器 → 巨型技能 → 全屏清怪。</p></div>
+                </div>
+              </section>
+              <div class="learning-row">
+                <section class="learning-strategy">
+                  <h5>03 · 创意策略</h5>
