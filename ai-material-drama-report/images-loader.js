@@ -1,0 +1,1 @@
+document.querySelectorAll('img[data-src-key]').forEach(function(i){i.src=(window.__IMG||{})[i.dataset.srcKey]||i.src});
