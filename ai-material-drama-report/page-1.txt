@@ -1,0 +1,117 @@
+                  <strong>核心玩法不频繁改变</strong>
+                  <p>持续测试不同人物、技能与视觉包装。</p>
+                </section>
+                <section class="transfer-directions">
+                  <h5>05 · 可迁移方向</h5>
+                  <ul><li><b>修仙</b> 法器 / 神兽</li><li><b>RPG</b> 装备 / Boss进化</li><li><b>SLG</b> 军团 / 城池奇观</li></ul>
+                </section>
+              </div>
+            </div>
+          </div>
+          <div class="formula" aria-label="灵画师策略公式">
+            <span class="formula-label">04 · 素材结构</span><b>视觉奇观</b><i>→</i><b>修仙身份</b><i>→</i><b>法器出现</b><i>→</i><b>技能升级</b><i>→</i><b>清屏</b><i>→</i><b>真实玩法</b>
+          </div>
+        </article>
+
+        <div class="hook-comparison" aria-labelledby="comparison-title">
+          <header class="comparison-head">
+            <p>THREE ACQUISITION ENTRANCES</p>
+            <h3 id="comparison-title">三种不同的AI素材获客方式</h3>
+          </header>
+          <div class="comparison-columns">
+            <article><span>01</span><h4>疯狂水世界</h4><strong>情绪钩子</strong><p>剧情带玩法</p><blockquote>“他接下来怎么活？”</blockquote></article>
+            <article><span>02</span><h4>超能下蛋鸭</h4><strong>角色钩子</strong><p>角色带玩法</p><blockquote>“这只鸭子还能干什么？”</blockquote></article>
+            <article><span>03</span><h4>灵画师</h4><strong>视觉钩子</strong><p>视觉带玩法</p><blockquote>“下一个技能还能有多夸张？”</blockquote></article>
+          </div>
+          <div class="comparison-center">
+            <h3>情绪钩子 <span>×</span> 角色钩子 <span>×</span> 视觉钩子</h3>
+            <p>三款产品分别利用AI强化剧情、角色和视觉三个不同的获客入口。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="drama-section section-pad" id="drama">
+        <div class="chapter-head inverse">
+          <span class="chapter-num">02</span>
+          <div>
+            <p class="eyebrow">SHORT DRAMA VIEWING</p>
+            <h2>红果漫剧 TOP10 阅片</h2>
+            <p>重点观察短内容如何快速建立目标、制造爽点，并维持用户持续观看。</p>
+          </div>
+        </div>
+
+        <div class="drama-grid">
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-01.png" alt="开局大帝：我的弟子全是逆天体质" data-lightbox tabindex="0" /><figcaption>01</figcaption></figure><div><p class="drama-type">玄幻 / 系统 / 宗门养成 / 收徒</p><h3>开局大帝：我的弟子全是逆天体质</h3><dl><dt>核心爽点</dt><dd>主角强 + 弟子强 + 势力整体升级</dd><dt>内容结构</dt><dd>破败宗门 → 系统 → 收徒 → 觉醒 → 扩张 → 横扫</dd><dt>可学习策略</dt><dd><b>把“养成”做成连续爽点。</b>角色、资源和整个势力同步成长。</dd></dl><p class="fit">适合：SLG / 卡牌 / 公会 / 城建</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-02.png" alt="万妖图录传第一季" data-lightbox tabindex="0" /><figcaption>02</figcaption></figure><div><p class="drama-type">玄幻 / 系统 / 打怪升级 / 能力收集</p><h3>万妖图录传第一季</h3><dl><dt>核心爽点</dt><dd>杀掉敌人，就能获得敌人的能力</dd><dt>内容结构</dt><dd>发现妖物 → 战斗 → 击杀 → 获得神通 → 变强 → 更强妖物</dd><dt>可学习策略</dt><dd><b>一个敌人对应一个奖励。</b>让用户提前预期打完这个怪能获得什么。</dd></dl><p class="fit">适合：RPG / 割草 / 进化</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-03.png" alt="人已成首座，签到无敌修为！" data-lightbox tabindex="0" /><figcaption>03</figcaption></figure><div><p class="drama-type">玄幻 / 签到系统 / 无敌流 / 扮猪吃虎</p><h3>人已成首座，签到无敌修为！</h3><dl><dt>核心爽点</dt><dd>观众知道主角无敌，但其他角色不知道</dd><dt>内容结构</dt><dd>隐藏实力 → 被轻视 → 危机 → 出手 → 一招压制 → 身份揭晓</dd><dt>可学习策略</dt><dd><b>利用“信息差”制造爽感。</b>关注点从“能不能赢”变成“什么时候出手”。</dd></dl><p class="fit">转化：最低战力 → 被嫌弃 → 实战 → 一招秒Boss</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-04.png" alt="从一把火开始，建造我的兽耳娘部落" data-lightbox tabindex="0" /><figcaption>04</figcaption></figure><div><p class="drama-type">种田 / 生存 / 文明建设 / 兽耳</p><h3>从一把火开始，建造我的兽耳娘部落</h3><dl><dt>核心爽点</dt><dd>从什么都没有，一点点建立完整文明</dd><dt>内容结构</dt><dd>火 → 食物 → 房屋 → 工具 → 资源 → 防御 → 部落 → 城镇</dd><dt>可学习策略</dt><dd><b>把大成长拆成小目标。</b>让用户亲眼看到 1 → 10 → 100。</dd></dl><p class="fit">适合：SLG / 模拟经营</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-05.png" alt="锦衣暴徒：凌波通灵破诡案" data-lightbox tabindex="0" /><figcaption>05</figcaption></figure><div><p class="drama-type">高武 / 悬疑 / 破案 / 系统</p><h3>锦衣暴徒：凌波通灵破诡案</h3><dl><dt>核心爽点</dt><dd>破案悬念 + 能力成长</dd><dt>内容结构</dt><dd>案件 → 通灵 → 线索 → 真凶 → 遗愿 → 奖励</dd><dt>可学习策略</dt><dd><b>问题负责拉时长，奖励负责给反馈。</b>先抛出“谁杀了他？”</dd></dl><p class="fit">先问问题，也能替代直接战斗开场</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-06.png" alt="末日小餐馆，丧尸排队来吃饭" data-lightbox tabindex="0" /><figcaption>06</figcaption></figure><div><p class="drama-type">末世 / 美食 / 经营 / 反差</p><h3>末日小餐馆，丧尸排队来吃饭</h3><dl><dt>核心爽点</dt><dd>丧尸末日 + 开餐馆，两种元素反常组合</dd><dt>内容结构</dt><dd>末日环境 → 餐馆开张 → 怪异顾客 → 经营问题 → 反差解决</dd><dt>可学习策略</dt><dd><b>成熟题材 + 反常玩法。</b>用题材混搭创造新的第一眼。</dd></dl><p class="fit">末日×餐馆 / 修仙×外卖 / 三国×鉴宝</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-07.png" alt="全班修仙归来，你们元婴我大乘" data-lightbox tabindex="0" /><figcaption>07</figcaption></figure><div><p class="drama-type">都市修仙 / 群像 / 等级压制 / 扮猪吃虎</p><h3>全班修仙归来，你们元婴我大乘</h3><dl><dt>核心爽点</dt><dd>所有角色都很强，但主角比他们更强</dd><dt>内容结构</dt><dd>群像登场 → 等级展示 → 主角低调 → 比较 → 大乘揭晓</dd><dt>可学习策略</dt><dd><b>等级比较本身就是内容。</b>把主角放在等级序列最后。</dd></dl><p class="fit">普通人 → 筑基 → 金丹 → 元婴 → 化神 → 大乘</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-08.png" alt="母亲是巨龙我咋是山海异兽呢？" data-lightbox tabindex="0" /><figcaption>08</figcaption></figure><div><p class="drama-type">异兽 / 血脉 / 吞噬 / 进化</p><h3>母亲是巨龙我咋是山海异兽呢？</h3><dl><dt>核心爽点</dt><dd>从弱小异兽开始，通过吞噬不断改变形态</dd><dt>内容结构</dt><dd>弱小 → 吞噬 → 体型增长 → 新能力 → 外观改变 → 血脉升级</dd><dt>可学习策略</dt><dd><b>升级一定要看得见。</b>体型、翅膀、颜色、特效比数值更直观。</dd></dl><p class="fit">外观进化非常适合AI表现</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-09.png" alt="全球杀机：我在宿舍杀穿诡异" data-lightbox tabindex="0" /><figcaption>09</figcaption></figure><div><p class="drama-type">规则怪谈 / 校园 / 求生 / 诡异</p><h3>全球杀机：我在宿舍杀穿诡异</h3><dl><dt>核心爽点</dt><dd>封闭空间中的持续生存压力</dd><dt>内容结构</dt><dd>安全区 → 夜晚 → 怪物 → 攻击 → 击杀 → 加固 → 更强怪物</dd><dt>可学习策略</dt><dd><b>安全区 + 不断逼近的危险。</b>让用户持续关心下一波能否守住。</dd></dl><p class="fit">适合：塔防 / 猛鬼宿舍 / 守家 / SLG</p></div></article>
+          <article class="drama-card"><figure><img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src-key="drama-10.png" alt="聚宝仙盆之杂灵根才是真BOSS" data-lightbox tabindex="0" /><figcaption>10</figcaption></figure><div><p class="drama-type">修仙 / 废柴逆袭 / 法宝 / 资源成长</p><h3>聚宝仙盆之杂灵根才是真BOSS</h3><dl><dt>核心爽点</dt><dd>资源复制和滚雪球</dd><dt>内容结构</dt><dd>1份资源 → 复制 → 数量增加 → 强化 → 换高级物品 → 实力暴涨</dd><dt>可学习策略</dt><dd><b>资源增长本身就是爽点。</b>把 1 → 10 → 100 → 10000 直接演出来。</dd></dl><p class="fit">适合：SLG / 模拟经营 / 合成 / 资源采集</p></div></article>
+        </div>
+
+        <div class="strategy-map" aria-labelledby="map-title">
+          <div class="map-head"><span>03</span><div><p class="eyebrow">CREATIVE STRATEGY MAP</p><h2 id="map-title">漫剧创意类型归纳</h2><p>同一作品可能落入多个策略类别，因为题材负责第一眼，结构负责持续观看。</p></div></div>
+          <div class="map-grid">
+            <article><span class="map-letter">A</span><p>无敌 / 等级压制</p><h3>信息差 + 数值对比 + 打脸</h3><div class="work-list">《开局大帝》<br />《人已成首座》<br />《全班修仙归来》</div></article>
+            <article><span class="map-letter">B</span><p>打怪 / 进化</p><h3>战斗 + 掉落 + 能力变化</h3><div class="work-list">《万妖图录传》<br />《母亲是巨龙》</div></article>
+            <article><span class="map-letter">C</span><p>建设 / 经营</p><h3>从0到1 + 资源滚雪球</h3><div class="work-list">《从一把火开始》<br />《末日小餐馆》<br />《聚宝仙盆》</div></article>
+            <article><span class="map-letter">D</span><p>悬念 / 求生</p><h3>问题 + 危机 + 延迟答案</h3><div class="work-list">《锦衣暴徒》<br />《全球杀机》</div></article>
+            <article><span class="map-letter">E</span><p>题材反差</p><h3>新的第一眼吸引力</h3><div class="work-list">《末日小餐馆》<br />《兽耳娘部落》<br />《全班修仙》</div></article>
+          </div>
+        </div>
+      </section>
+
+      <section class="methods section-pad" id="strategy">
+        <div class="chapter-head">
+          <span class="chapter-num">04</span>
+          <div><p class="eyebrow">REUSABLE METHODS</p><h2>游戏素材可复用创意策略</h2><p>从漫剧内容结构中提炼可迁移到游戏素材的创意方法。</p></div>
+        </div>
+        <div class="method-stack">
+          <article><span class="method-num">01</span><div class="method-copy"><p>先给目标，再讲背景</p><h3>让用户先知道“现在必须做什么”。</h3><div class="wrong-right"><div><span>错误</span><p>先介绍世界观30秒。</p></div><div><span>正确</span><p>“今晚门破了就会死。”</p></div></div></div><p class="method-note">用户先理解目标，再理解规则。</p></article>
+          <article><span class="method-num">02</span><div class="method-copy"><p>成长必须可视化</p><h3>通过形态变化呈现升级。</h3><div class="growth-lines"><p>破房子 → 村落 → 城镇 → 城池</p><p>小怪 → 巨兽 → 神兽</p><p>木剑 → 神兵 → 万剑阵</p></div></div><p class="method-note">把抽象数值变成肉眼可见的阶段。</p></article>
+          <article><span class="method-num">03</span><div class="method-copy"><p>建立信息差</p><h3>用户知道，角色不知道。</h3><blockquote>所有人都以为他很弱，<br />但用户知道他战力 999999。</blockquote></div><p class="method-note">用户持续关注“什么时候揭晓”。</p></article>
+          <article class="method-mix"><span class="method-num">04</span><div class="method-copy"><p>成熟玩法换一个新外壳</p><h3>创新也可以来自重新组合。</h3><p class="mix-description">通过对爆款素材的拆解，可以看到不少创意来自题材、角色和冲突的重新组合，为成熟玩法提供新的内容外壳。</p><div class="mix-formula" aria-label="玩法机制乘以新题材、新角色和新冲突"><div class="mix-pair"><b>玩法机制</b><span>×</span><b>新题材</b></div><span class="mix-divider">×</span><div class="mix-pair"><b>新角色</b><span>×</span><b>新冲突</b></div></div><div class="mix-examples"><span>经营 × 末世</span><span>建城 × 原始兽人</span><span>升级 × 抓妖</span><span>守家 × 校园怪谈</span></div></div><p class="method-note">新鲜感决定第一眼，玩法负责最终承接。</p></article>
+          <article class="method-ai"><span class="method-num">05</span><div class="method-copy"><p>AI将创意放大为可测试变量</p><h3>把高成本视觉快速做成可测试变量。</h3><div class="ai-tasks"><span>巨物</span><span>妖兽</span><span>仙术</span><span>异世界</span><span>角色变形</span><span>快速场景切换</span><span>高成本视觉奇观</span></div><div class="core-chain"><b>钩子</b><i>→</i><b>目标</b><i>→</i><b>冲突</b><i>→</i><b>反馈</b><i>→</i><b>产品承接</b></div></div><p class="method-note">素材效果最终取决于内容结构。</p></article>
+        </div>
+      </section>
+
+      <section class="conclusion section-pad" id="conclusion">
+        <div class="conclusion-label">05 / FINAL TAKEAWAY</div>
+        <h2>从爆款素材中提炼可复用的内容结构</h2>
+        <p class="conclusion-intro">本轮阅片通过拆解AI游戏素材与热门漫剧，<br />总结出其在用户钩子、目标建立、爽点反馈、成长反转与玩法承接上的共性方法。</p>
+        <div class="final-chain" aria-label="最终内容公式">
+          <div>强钩子</div><span>↓</span><div>明确目标</div><span>↓</span><div>第一次爽点</div><span>↓</span><div>成长 / 反转</div><span>↓</span><div>更大危机</div><span>↓</span><div>玩法解决问题</div><span>↓</span><div class="final-cta">CTA</div>
+        </div>
+        <div class="closing-statement">
+          <p>后续进行AI素材、UE或试玩创意时，可以进一步围绕：</p>
+          <strong>核心玩法机制 <span>×</span> 新内容外壳</strong>
+          <p>进行创意延展。</p>
+        </div>
+      </section>
+    </main>
+
+    <footer><span>AI素材 & 漫剧阅片分析</span><span>内部创意策划阅片作业</span><a href="#top">回到顶部</a></footer>
+
+    <dialog class="lightbox" aria-label="图片放大查看">
+      <button class="lightbox-close" type="button">关闭</button>
+      <img src="" alt="" />
+      <p></p>
+    </dialog>
+    <script src="./images-0.js"></script>
+    <script src="./images-1.js"></script>
+    <script src="./images-2.js"></script>
+    <script src="./images-3.js"></script>
+    <script src="./images-4.js"></script>
+    <script src="./images-5.js"></script>
+    <script src="./images-6.js"></script>
+    <script src="./images-7.js"></script>
+    <script src="./images-8.js"></script>
+    <script src="./images-9.js"></script>
+    <script src="./images-loader.js"></script>
+    <script defer src="./script.js"></script>
+  </body>
+</html>
